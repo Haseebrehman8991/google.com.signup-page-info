@@ -1,0 +1,5 @@
+{
+  "name": "Google Auth Clone",
+  "description": "A high-fidelity clone of the Google login interface with multi-step authentication flow.",
+  "requestFramePermissions": []
+}
